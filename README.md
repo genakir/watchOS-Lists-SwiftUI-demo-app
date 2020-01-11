@@ -1,1 +1,2 @@
-# watchOS-SwiftUI-Lists-demo-app
+# watchOS SwiftUI Lists demo app
+![](watchOSLists.gif)
