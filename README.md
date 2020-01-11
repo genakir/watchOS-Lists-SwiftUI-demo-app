@@ -1,2 +1,2 @@
-# watchOS SwiftUI Lists demo app
+# watchOS Lists SwiftUI demo app
 ![](watchOSLists.gif)
